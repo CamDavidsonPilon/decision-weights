@@ -6,4 +6,3 @@ It's clear that humans are irrational, but how irrational are they? After some r
 
 ![ev](http://latex.codecogs.com/gif.latex?E^{\mathbf{Q}}[&space;Z&space;]&space;=&space;\sum_{z}&space;q_i&space;z)
 
-g
