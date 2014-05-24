@@ -50,6 +50,10 @@ The original HIT data and the python scripts that generate are in the repo, plus
 
 **Note:** The Turking cost me $88.40, if you'd like to give back over [Gittip](https://www.gittip.com/CamDavidsonPilon/), that would be great =)
  
+## Analysis
+
+[Imgur](http://i.imgur.com/c8Fg8eV.png)
+ 
 ## FAQ
 
  1. **Why did I ask the Turkers to deeply imagine winning $50 dollars before answering the question?** This was to offset a potential anchoring effect: if a Turkers first choice had prize $10 000, then any other prize would have looked pitiful, as the anchor had been set at $10 000. By having them imagine winning $50 (lower than any prize), then any prize they latter saw would appear better than this anchor. 
