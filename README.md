@@ -6,7 +6,7 @@ It's clear that humans are irrational, but how irrational are they? After some r
 
 ![ev](http://latex.codecogs.com/gif.latex?E^{\\mathbf{Q}}[&space;Z&space;]&space;=&space;\\sum_{z_i}&space;q_i&space;z_i)
 
-Here, the *q_i*s are not the probabilities of outcome $z_i$, but is another probability measure called *decision weights*. Using a change of measure, we can observe the relationship between the actual probabilities and the decision weights: 
+Here, the *q*'s are not the probabilities of outcome *z*, but it is from another probability measure called *decision weights* that humans actually use to weigh outcomes. Using a change of measure, we can observe the relationship between the actual probabilities and the decision weights: 
 
 ![cmg](http://latex.codecogs.com/gif.latex?E%5E%7B%5Cmathbf%7BQ%7D%7D%5B%20Z%20%5D%20%3D%20E%5E%7B%5Cmathbf%7BP%7D%7D%5Cleft%5B%20Z%20%5Cfrac%7BdQ%7D%7BdP%7D%5Cright%5D%20%3D%20%5Csum_%7Bz%7D%20p_i%20%5Cleft%28%5Cfrac%7Bq_i%7D%7Bp_i%7D%20z%5Cright%29)
 
