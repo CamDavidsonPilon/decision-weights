@@ -2,7 +2,7 @@ Decision Weights in Prospect Theory
 ================
 
 
-It's clear that humans are irrational, but how irrational are they? After some research into behavourial economics, I became very interested in Prospect Theory. A very interesting part of Prospect theory is that it is *not* probabilities that are used in the calculation of expected value: 
+It's clear that humans are irrational, but how irrational are they? After some research into behavourial economics, I became very interested in Prospect Theory (see Chapter 29 of *Thinking, Fast and Slow*). A very interesting part of Prospect theory is that it is *not* probabilities that are used in the calculation of expected value: 
 
 ![ev](http://latex.codecogs.com/gif.latex?E^{\\mathbf{Q}}[&space;Z&space;]&space;=&space;\\sum_{z_i}&space;q_i&space;z_i)
 
@@ -45,12 +45,14 @@ So I create combinations of probabilities and prizes, all with equal real-world 
 
 ![Imgur](http://i.imgur.com/KHePN5a.png)
 
-The original HIT data and the python scripts that generate are in the repo, plus the data that I just now recieved back from MTurk.
+The original HIT data and the python scripts that generate are in the repo, plus the data that I just now recieved back from MTurk. Each HIT received 10 turkers. 
 
 
 **Note:** The Turking cost me $88.40, if you'd like to give back over [Gittip](https://www.gittip.com/CamDavidsonPilon/), that would be great =)
  
 ## Analysis
+
+Below is a slightly inappropriate heatmap of the choices people made. If everyone was rational, and hence indifferent to the two choices, the probabilities should hover around 0.5. This is clearly not the case. 
 
 ![Imgur](http://i.imgur.com/c8Fg8eV.png)
  
