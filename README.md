@@ -18,13 +18,13 @@ My interest is in this change of measure.
 
 Suppose you have two choices:
 
-1. Lottery A: have a 1% chance to win $10000, 
+1. Lottery A: have a 1% chance to win $10 000, 
 2. Lottery B: have a 99% chance to win $101
 
 
-What would you prefer?
+Which would you prefer?
 
-Well, under the real world probabilty measure, these two choices are equal: .99*101 = .01*10000. Thus a rational agent would be indifferent to either option. But a human would have a preference: they would see one more valuable than the other. Thus:
+Well, under the real world probabilty measure, these two choices are equal: .99*x*101 = .01*x*10000. Thus a rational agent would be indifferent to either option. But a human would have a preference: they would see one more valuable than the other. Thus:
 
 ![inq](http://latex.codecogs.com/gif.latex?E%5E%7B%5Cmathbf%7BP%7D%7D%5B%20Z_1%20%5D%20%3D%20E%5E%7B%5Cmathbf%7BP%7D%7D%5B%20Z_2%20%5D%2C%20%5C%3B%5C%3B%20E%5E%7B%5Cmathbf%7BQ%7D%7D%5B%20Z_1%20%5D%20%3E%20E%5E%7B%5Cmathbf%7BQ%7D%7D%5B%20Z_2%20%5D)
 
@@ -61,7 +61,8 @@ Below is a slightly inappropriate heatmap of the choices people made. If everyon
 What else do we see here?
 
 1. As expected, people are loss averse: every point in the lower-diagonal is where lottery *A* had a high probability of success than *B*. The matrix shows that most points in here are greater than 50%, thus people chose the safer bet more often. 
-2. The exception to the above point is the fact that 1% is choosen more favourably over 2%. This is an instance of the *possibility effect*. 
+2. The exception to the above point is the fact that 1% is choosen more favourably over 2%. This is an instance of the *possibility effect*. People are indifferent between 1% and 2%, as they are both so rare, thus will pick the one with larger payoff. 
+3. 
 
 
 ## FAQ
