@@ -52,7 +52,7 @@ The original HIT data and the python scripts that generate are in the repo, plus
  
 ## Analysis
 
-[Imgur](http://i.imgur.com/c8Fg8eV.png)
+![Imgur](http://i.imgur.com/c8Fg8eV.png)
  
 ## FAQ
 
