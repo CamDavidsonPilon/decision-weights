@@ -24,7 +24,7 @@ Suppose you have two choices:
 
 Which would you prefer?
 
-Well, under the real world probabilty measure, these two choices are equal: .99*x*101 = .01*x*10000. Thus a rational agent would be indifferent to either option. But a human would have a preference: they would see one more valuable than the other. Thus:
+Well, under the real world probabilty measure, these two choices are equal: .99 *x* 101 = .01 *x* 10000. Thus a rational agent would be indifferent to either option. But a human would have a preference: they would see one more valuable than the other. Thus:
 
 ![inq](http://latex.codecogs.com/gif.latex?E%5E%7B%5Cmathbf%7BP%7D%7D%5B%20Z_1%20%5D%20%3D%20E%5E%7B%5Cmathbf%7BP%7D%7D%5B%20Z_2%20%5D%2C%20%5C%3B%5C%3B%20E%5E%7B%5Cmathbf%7BQ%7D%7D%5B%20Z_1%20%5D%20%3E%20E%5E%7B%5Cmathbf%7BQ%7D%7D%5B%20Z_2%20%5D)
 
@@ -45,7 +45,7 @@ So I created combinations of probabilities and prizes, all with equal real-world
 
 ![Imgur](http://i.imgur.com/KHePN5a.png)
 
-Again, notice that .5*x*$200 = .8*x*$125 = $100. The original HIT data and the python scripts that generate are in the repo, plus the MTurk data. Each HIT received 10 turkers. 
+Again, notice that .5 *x* $200 = .8 *x* $125 = $100. The original HIT data and the python scripts that generate are in the repo, plus the MTurk data. Each HIT received 10 turkers. 
 
 
 **Note:** The Turking cost me $88.40, if you'd like to give back over [Gittip](https://www.gittip.com/CamDavidsonPilon/), that would be great =)
