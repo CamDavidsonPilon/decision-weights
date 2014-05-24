@@ -1,4 +1,4 @@
-decision-weights
+Decision Weights in Prospect Theory
 ================
 
 
