@@ -18,8 +18,8 @@ My interest is in this change of measure.
 
 Suppose you have two choices:
 
-1. have a 1% chance to win $10000, 
-2. have a 99% chance to win $101
+1. Lottery A: have a 1% chance to win $10000, 
+2. Lottery B: have a 99% chance to win $101
 
 
 What would you prefer?
@@ -50,15 +50,22 @@ The original HIT data and the python scripts that generate are in the repo, plus
 
 **Note:** The Turking cost me $88.40, if you'd like to give back over [Gittip](https://www.gittip.com/CamDavidsonPilon/), that would be great =)
  
+**Note:** I called the first choice *Lottery A* and the second choice *Lottery B*.
+ 
 ## Analysis
 
 Below is a slightly inappropriate heatmap of the choices people made. If everyone was rational, and hence indifferent to the two choices, the probabilities should hover around 0.5. This is clearly not the case. 
 
 ![Imgur](http://i.imgur.com/c8Fg8eV.png)
  
+What else do we see here?
+
+1. As expected, people are loss averse: every point in the lower-diagonal is where lottery *A* had a high probability of success than *B*. The matrix shows that most points in here are greater than 50%, thus people chose the safer bet more often. 
+2. The exception to the above point is the fact that 1% is choosen more favourably over 2%. This is an instance of the *possibility effect*. 
+
+
 ## FAQ
 
- 1. **Why did I ask the Turkers to deeply imagine winning $50 dollars before answering the question?** This was to offset a potential anchoring effect: if a Turkers first choice had prize $10 000, then any other prize would have looked pitiful, as the anchor had been set at $10 000. By having them imagine winning $50 (lower than any prize), then any prize they latter saw would appear better than this anchor. 
+1. **Why did I ask the Turkers to deeply imagine winning $50 dollars before answering the question?** This was to offset a potential anchoring effect: if a Turkers first choice had prize $10 000, then any other prize would have looked pitiful, as the anchor had been set at $10 000. By having them imagine winning $50 (lower than any prize), then any prize they latter saw would appear better than this anchor. 
  
-
-
+2. **Next steps?** I'd like to try this again, with more control over the Turkers (have a more diverse set of Turkers on it). I also forgot 95% in the data sent to the turkers =\
