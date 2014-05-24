@@ -41,11 +41,11 @@ What's left to do is determine the direction of the first inequality.
 ## Mechanical Turk it. 
 
 
-So I create combinations of probabilities and prizes, all with equal real-world expected value, and asked Turkers to pick which one they preferred: 
+So I created combinations of probabilities and prizes, all with equal real-world expected value, and asked Turkers to pick which one they preferred. Example:
 
 ![Imgur](http://i.imgur.com/KHePN5a.png)
 
-The original HIT data and the python scripts that generate are in the repo, plus the data that I just now recieved back from MTurk. Each HIT received 10 turkers. 
+Again, notice that .5*x*$200 = .8*x*$125 = $100. The original HIT data and the python scripts that generate are in the repo, plus the MTurk data. Each HIT received 10 turkers. 
 
 
 **Note:** The Turking cost me $88.40, if you'd like to give back over [Gittip](https://www.gittip.com/CamDavidsonPilon/), that would be great =)
