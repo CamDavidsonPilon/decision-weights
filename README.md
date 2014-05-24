@@ -56,17 +56,16 @@ The original HIT data and the python scripts that generate are in the repo, plus
 
 Below is a slightly inappropriate heatmap of the choices people made. If everyone was rational, and hence indifferent to the two choices, the probabilities should hover around 0.5. This is clearly not the case. 
 
-![Imgur](http://i.imgur.com/c8Fg8eV.png)
+![Imgur](http://i.imgur.com/poAzHxZ.png)
  
 What else do we see here?
 
 1. As expected, people are loss averse: every point in the lower-diagonal is where lottery *A* had a high probability of success than *B*. The matrix shows that most points in here are greater than 50%, thus people chose the safer bet more often. 
 2. The exception to the above point is the fact that 1% is choosen more favourably over 2%. This is an instance of the *possibility effect*. People are indifferent between 1% and 2%, as they are both so rare, thus will pick the one with larger payoff. 
-3. 
 
 
 ## FAQ
 
 1. **Why did I ask the Turkers to deeply imagine winning $50 dollars before answering the question?** This was to offset a potential anchoring effect: if a Turkers first choice had prize $10 000, then any other prize would have looked pitiful, as the anchor had been set at $10 000. By having them imagine winning $50 (lower than any prize), then any prize they latter saw would appear better than this anchor. 
  
-2. **Next steps?** I'd like to try this again, with more control over the Turkers (have a more diverse set of Turkers on it). I also forgot 95% in the data sent to the turkers =\
+2. **Next steps?** I'd like to try this again, with more control over the Turkers (have a more diverse set of Turkers on it).
