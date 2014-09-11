@@ -69,3 +69,6 @@ What else do we see here?
 1. **Why did I ask the Turkers to deeply imagine winning $50 dollars before answering the question?** This was to offset a potential anchoring effect: if a Turkers first choice had prize $10 000, then any other prize would have looked pitiful, as the anchor had been set at $10 000. By having them imagine winning $50 (lower than any prize), then any prize they latter saw would appear better than this anchor. 
  
 2. **Next steps?** I'd like to try this again, with more control over the Turkers (have a more diverse set of Turkers on it).
+
+
+ [This data is mirrored and can be queried via API here](https://www.exversion.com/data/view/RABBVVQ0AQ5137Z)
